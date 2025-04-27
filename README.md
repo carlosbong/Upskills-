@@ -49,3 +49,13 @@ In this exercise, you will:
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>Ads Transparency Status</title>
+<link>https://metastatus.com/ads-transparency</link>
+<atom:link href="https://metastatus.com/outage-events-feed-ads-transparency.rss" rel="self" type="application/rss+xml"/>
+<description>Status updates for Ads Transparency</description>
+<lastBuildDate>Sun, 13 Apr 2025 21:15:54 GMT</lastBuildDate>
+</channel>
+</rss>
